@@ -49,18 +49,7 @@
   - 总训练步数：832 步（计划总步数 850 步）
   - 总计算量（`total_flos`）：8.109431025618125e+17 FLOPs
 
-## 目录结构
  
----LLaMA-7B---LoRa-----/
-├── src/                # 源代码目录（训练、评估脚本等）
-├── configs/            # 配置文件目录
-├── data/               # 数据集目录
-├── logs/               # 训练日志目录
-├── results/            # 评估结果与可视化文件
-├── checkpoints/        # 模型 checkpoint 保存目录
-├── requirements.txt    # 项目依赖清单
-└── README.md           # 项目说明文档
-```
 
 ## 注意事项
 
